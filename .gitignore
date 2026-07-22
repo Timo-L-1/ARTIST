@@ -188,3 +188,6 @@ examples/hyperparameter_optimization/plots/
 
 # Local config files.
 **/config.local.json
+
+# Runtime logging artifact written by set_logger_config.
+runtime_log.txt
